@@ -1,0 +1,16 @@
+{
+  "name": "html_lab4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Pleum.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node Pleum",
+    "dev": "nodemon Pleum"
+  },
+  "author": "Pleum",
+  "license": "ISC"
+}
